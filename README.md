@@ -1,4 +1,3 @@
-# Masternoder
-Use the qt-file for windows wallet.
+# MasterNoder
 
 Use https://discord.gg/rsz3Wh3AQ6
