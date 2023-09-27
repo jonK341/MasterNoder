@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=MasterNoder Core
+Comment=MasterNoder P2P Cryptocurrency
+Comment[fr]=MasterNoder, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MasterNoder, eşten eşe kriptografik sanal para birimi
+Exec=masternoder-qt %u
+Terminal=false
+Type=Application
+Icon=masternoder128
+MimeType=x-scheme-handler/masternoder;
+Categories=Office;Finance;
+StartupWMClass=MasterNoder-qt

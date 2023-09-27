@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/masternoder_bg.qm</file>
+        <file alias="ca">locale/masternoder_ca.qm</file>
+        <file alias="cs">locale/masternoder_cs.qm</file>
+        <file alias="da">locale/masternoder_da.qm</file>
+        <file alias="de">locale/masternoder_de.qm</file>
+        <file alias="en">locale/masternoder_en.qm</file>
+        <file alias="en_GB">locale/masternoder_en_GB.qm</file>
+        <file alias="en_US">locale/masternoder_en_US.qm</file>
+        <file alias="eo">locale/masternoder_eo.qm</file>
+        <file alias="es">locale/masternoder_es.qm</file>
+        <file alias="es_ES">locale/masternoder_es_ES.qm</file>
+        <file alias="fi">locale/masternoder_fi.qm</file>
+        <file alias="fr_FR">locale/masternoder_fr_FR.qm</file>
+        <file alias="hi_IN">locale/masternoder_hi_IN.qm</file>
+        <file alias="hr">locale/masternoder_hr.qm</file>
+        <file alias="hr_HR">locale/masternoder_hr_HR.qm</file>
+        <file alias="it">locale/masternoder_it.qm</file>
+        <file alias="ja">locale/masternoder_ja.qm</file>
+        <file alias="ko_KR">locale/masternoder_ko_KR.qm</file>
+        <file alias="lt_LT">locale/masternoder_lt_LT.qm</file>
+        <file alias="nl">locale/masternoder_nl.qm</file>
+        <file alias="pl">locale/masternoder_pl.qm</file>
+        <file alias="pt">locale/masternoder_pt.qm</file>
+        <file alias="pt_BR">locale/masternoder_pt_BR.qm</file>
+        <file alias="ro_RO">locale/masternoder_ro_RO.qm</file>
+        <file alias="ru">locale/masternoder_ru.qm</file>
+        <file alias="sk">locale/masternoder_sk.qm</file>
+        <file alias="sv">locale/masternoder_sv.qm</file>
+        <file alias="tr">locale/masternoder_tr.qm</file>
+        <file alias="uk">locale/masternoder_uk.qm</file>
+        <file alias="vi">locale/masternoder_vi.qm</file>
+        <file alias="zh_CN">locale/masternoder_zh_CN.qm</file>
+        <file alias="zh_TW">locale/masternoder_zh_TW.qm</file>
+    </qresource>
+</RCC>
