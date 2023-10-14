@@ -6,9 +6,11 @@ Use Blockexplorer: http://140.82.36.107:3001/
 
 Use Discord: https://discord.gg/rsz3Wh3AQ6
 
-Let me introduce you to a new Crypto-coin MN. It's a coin made for profit and long blocktime ensures deflation like other fast spinning block POS coins that loses value due to empty blocks. Masternoder is a coin build on Quark algo, It's genesis block was mined POW with the wallet and long time POW incapsulate userswith MN coins.
+Use Pool: https://altcoinspool.com:6815/
 
-• PoW Algorithm: Quark
+Let me introduce you to a new Crypto-coin MN. It's a coin made for profit and long blocktime ensures deflation like other fast spinning block POS coins that loses value due to empty blocks. Masternoder is a coin build on the sha256csm algo, It's genesis block was mined POW with the wallet and long time POW incapsulate userswith MN coins.
+
+• PoW Algorithm: sha256csm (POW/POS)
 
 • PoW Blocks: 1 - 100000
 
@@ -18,7 +20,9 @@ Let me introduce you to a new Crypto-coin MN. It's a coin made for profit and lo
 
 • Maturity: 25 ( + 1 default confirmation) blocks
 
-• Total Coin Supply: 275000
+• Total Coin Supply: 336,250
+
+• Max Coin Supply: infinite  
 
 • Prefix: (MN) adresses start with the letter "J"
 
