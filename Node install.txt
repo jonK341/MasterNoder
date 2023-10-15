@@ -78,7 +78,7 @@ cd $HOME
 
 Download the Linux daemon for your wallet with the following command:
 
-wget "https://dl.walletbuilders.com/download?customer=4e254c5a9524147881a148ee6b0210531c60262a9f9d943bf9&filename=masternoder-daemon-linux.tar.gz" -O masternoder-daemon-linux.tar.gz
+wget "https://github.com/jonK341/MasterNoder/releases/download/masternoder/masternoder-daemon-linux.tar.gz" -O masternoder-daemon-linux.tar.gz
 
 Extract the tar file with the following command:
 
@@ -86,7 +86,7 @@ tar -xzvf masternoder-daemon-linux.tar.gz
 
 Download the Linux tools for your wallet with the following command:
 
-wget "https://dl.walletbuilders.com/download?customer=4e254c5a9524147881a148ee6b0210531c60262a9f9d943bf9&filename=masternoder-qt-linux.tar.gz" -O masternoder-qt-linux.tar.gz
+wget "https://github.com/jonK341/MasterNoder/releases/download/masternoder/masternoder-qt-linux.tar.gz" -O masternoder-qt-linux.tar.gz
 
 Extract the tar file with the following command:
 
