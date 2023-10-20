@@ -6,7 +6,7 @@ Use Blockexplorer: http://140.82.36.107:3001/
 
 Use Discord: https://discord.gg/rsz3Wh3AQ6
 
-Use Pool: https://altcoinspool.com:6815/
+Use Pool: https://altcoinspool.com
 
 Or Pool: https://mr-miner.org/#masternoder
 
