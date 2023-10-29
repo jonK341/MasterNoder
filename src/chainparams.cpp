@@ -187,9 +187,11 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0xc1f5d32e41bcddcb48fb559fb025cd8df4fd85076e30f2b19fb9a8cbc258d18a"));
 
         vSeeds.push_back(CDNSSeedData("node1.walletbuilders.com", "node1.walletbuilders.com"));
-        vSeeds.push_back(CDNSSeedData("136.144.171.201", "136.144.171.201"));
-        vSeeds.push_back(CDNSSeedData("seed01.urcoin.cc", "seed01.urcoin.cc"));
-        vSeeds.push_back(CDNSSeedData("seed02.urcoin.cc", "seed02.urcoin.cc"));
+        vSeeds.push_back(CDNSSeedData("official node", "136.144.171.201"));
+        vSeeds.push_back(CDNSSeedData("explorer", "157.97.171.169"));
+        vSeeds.push_back(CDNSSeedData("official node 2", "140.82.36.107"));
+        vSeeds.push_back(CDNSSeedData("community node 1", "45.77.153.55"));
+        vSeeds.push_back(CDNSSeedData("community node 2", "108.61.149.178"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 43);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 44);
