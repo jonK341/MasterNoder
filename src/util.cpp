@@ -498,8 +498,32 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
     if (!streamConfig.good()) {
         // Create empty masternoder.conf if it does not exist
         FILE* configFile = fopen(GetConfigFile().string().c_str(), "a");
-        if (configFile != NULL)
+        if (configFile != NULL){
+            std::string strHeader = "# Masternoder config file\n"
+                          "rpcuser=username\n"
+                          "rpcpassword=password\n"
+                          "server=1\n"
+                          "listen=1\n"
+                          "daemon=1\n"
+                          "port=26622\n"
+                          "rpcport=26621\n"
+                          "banscore=999999\n"
+                          "settxfee=0.0001\n"
+                          "rpcbind=127.0.0.1\n"
+                          "maxconnections=20\n"
+                          "rpcallowip=127.0.0.1\n"
+                          "\n"
+                          "# ADDNODES:\n"
+                          "addnode=node1.walletbuilders.com\n"
+                          "addnode=136.144.171.201:26622\n"
+                          "addnode=157.97.171.169:26622\n"
+                          "addnode=140.82.36.107:26622\n"
+                          "addnode=45.77.153.55:26622\n"
+                          "addnode=108.61.149.178:26622\n"
+                          "\n";
+            fwrite(strHeader.c_str(), std::strlen(strHeader.c_str()), 1, configFile);
             fclose(configFile);
+        }
         return; // Nothing to read, so just return
     }
 
