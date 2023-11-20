@@ -6,6 +6,7 @@ Let me introduce you to a new Crypto-coin MN. It's a coin made for profit and lo
 
 Use Website: https://easysplashbuilder.net/170444/ 
 Or https://klonvoron0.wixsite.com/masternodes/
+Or https://www.masternoder.dk/
 
 Use Blockexplorer: http://140.82.36.107:3001/
 
