@@ -1,24 +1,22 @@
 # MasterNoder
 
-Let me introduce you to a new Crypto-coin MN. It's a coin made for profit and long blocktime ensures deflation like other fast spinning block POS coins that loses value due to empty blocks. Masternoder is a coin build on the sha256csm algo, It's genesis block was mined POW with a wallet and long time POW incapsulate userswith MN coins.
+Let me introduce you to a new Crypto-coin MN. It's a coin made for profit and long blocktime ensures deflation not like other fast spinning block POS coins that loses value over time due to empty blocks. Masternoder is a coin build on the sha256csm algo, It's genesis block was mined POW with a wallet and long time POW incapsulate userswith MN coins.
 
 ---------------------------------------------------------
 
-Use Website: https://easysplashbuilder.net/170444/ 
+Use https://masternoder.dk/ 
 Or https://klonvoron0.wixsite.com/masternodes/
-Or https://www.masternoder.dk/
 
 Use Blockexplorer: http://140.82.36.107:3001/
+Or http://199.247.17.101:3001/
 
 Use Discord: https://discord.gg/rsz3Wh3AQ6
 
 Use Pool: https://altcoinspool.com
-Or https://mr-miner.org/#masternoder
-Or https://wsdpool.online/
 
 -------------------------------------------------------
 
-• PoW Algorithm: sha256csm (POW/POS)
+• Algorithm: sha256csm (POW/POS) + MN
 
 • Last PoW Block: 100000
 
@@ -45,6 +43,10 @@ Or https://wsdpool.online/
 • Target timespan: 45 minutes
 
 • Transaction confirmations: 6 blocks
+
+• Masternode: 82% = 102,5 coins
+
+• Stake reward: 18% = 22,5 coins
 
 ------------------------------------------------------
 ![MasterNoder_new_00000](https://github.com/jonK341/MasterNoder/assets/65444803/ca38d7bf-30d9-4494-93d0-45fb590d2233)
