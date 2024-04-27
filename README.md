@@ -1,18 +1,16 @@
 # MasterNoder
 
-Let me introduce you to a new Crypto-coin MN. It's a coin made for profit and long blocktime ensures deflation not like other fast spinning block POS coins that loses value over time due to empty blocks. Masternoder is a coin build on the sha256csm algo, It's genesis block was mined POW with a wallet and long time POW incapsulate userswith MN coins.
+Join MasterNoder.dk to unlock the potential of Masternode investments. Benefit from secure, high-yield cryptocurrency opportunities powered by the cutting-edge SHA-256CSM technology. Start earning passive income today!
 
 ---------------------------------------------------------
 
 Use https://masternoder.dk/ 
-Or https://klonvoron0.wixsite.com/masternodes/
 
 Use Blockexplorer: http://140.82.36.107:3001/
-Or http://199.247.17.101:3001/
 
-Use Discord: https://discord.gg/rsz3Wh3AQ6
+Use Discord: https://discord.gg/4KqBY3faYR
 
-Use Pool: https://altcoinspool.com
+Use Pool: https://zergpool.com/coins/MN
 
 -------------------------------------------------------
 
@@ -48,7 +46,13 @@ Use Pool: https://altcoinspool.com
 
 • Stake reward: 18% = 22,5 coins
 
+• SwiftX: Instant transaction and only one block confirmantion
+
 ------------------------------------------------------
-![MasterNoder_new_00000](https://github.com/jonK341/MasterNoder/assets/65444803/ca38d7bf-30d9-4494-93d0-45fb590d2233)
+![logo150X150](https://github.com/jonK341/MasterNoder/assets/65444803/ff65baed-4e97-41b3-aba8-3421b3ebe50f)
+
+![banner](https://github.com/jonK341/MasterNoder/assets/65444803/70071e1c-bc10-45f6-81c4-215cc3f4bc43)
+
+#hashtag #Blockchain #Roadmap #ProjectManagement #TechnologyDeployment #CommunityEngagement #GrowthStrategy #Evaluation #ContinuousImprovement #Security #UserExperience #Scalability #Interoperability #Testing #RegulatoryCompliance #Marketing #Education #Partnerships #Feedback #Innovation #StrategicPlanning #BestPractices
 
 ----->>> <>2023 @ Trademark</> <<<------
